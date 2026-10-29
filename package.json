@@ -1,0 +1,28 @@
+{
+  "name": "red-contrib-taiponrock",
+  "version": "1.0.0",
+  "description": "test node",
+  "keywords": [
+    "node-red"
+  ],
+  "homepage": "https://github.com/wajdbenmansour-ui/node-red-contrib-taiponrock#readme",
+  "bugs": {
+    "url": "https://github.com/wajdbenmansour-ui/node-red-contrib-taiponrock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wajdbenmansour-ui/node-red-contrib-taiponrock.git"
+  },
+  "license": "Apache-2.0",
+  "node-red": {
+    "nodes": {
+        "wajd-node": "node.js"
+    }
+},
+  "author": "wajd",
+  "type": "commonjs",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
